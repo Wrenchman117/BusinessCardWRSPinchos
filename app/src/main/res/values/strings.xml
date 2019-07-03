@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Business Card WRS Pinchos</string>
+    <string name="hours">
+        Business Hours:\n
+        Mon: 7:00PM - 2:00 AM\n
+        Tue: 7:00PM - 2:00 AM\n
+        Wed: 7:00PM - 2:00 AM\n
+        Thu: 7:00PM - 2:00 AM\n
+        Fri: 7:00PM - 2:00 AM\n
+    </string>
+</resources>
